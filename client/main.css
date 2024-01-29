@@ -1,0 +1,27 @@
+.signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup > div > button {
+  background-color: rgb(80, 243, 255);
+  padding: 3px 1px;
+}
+
+
+.signup > div {
+  margin: 3px;
+}
+
+.signup > div  > input {
+  box-sizing: border-box;
+  padding: 10px 6px;
+  background: transparent;
+  margin-right: 13px;
+  margin-top: 6px;
+}
+
+
+
